@@ -1,0 +1,41 @@
+html {
+    font-family: 'open sans';
+    background-color: #686A6C;
+}
+body {
+    margin-top: auto;
+}
+
+.navi {
+    display: flex;
+    display: inline;
+    padding-left: 25%;
+    align-items: center;
+    text-decoration: underline;
+    color: aqua;
+}
+
+.banner{
+    margin-top: 75px;
+    text-align: center;
+    padding: 100px 0;
+}
+#portrait {
+    height: 500px;
+    width: 950px;
+}
+
+#portfolio {
+    font-style: italic;
+}
+
+#list-one {
+    font-weight: 150;
+    font-size: medium;
+}
+
+.linked-in {
+    display: flex;
+    max-width: 150px;
+    max-height: 150px;
+}

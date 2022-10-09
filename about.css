@@ -1,0 +1,41 @@
+html {
+    font-family: 'open sans';
+    background-color:#686A6C;
+}
+
+.navi {
+    display: flex;
+    display: inline;
+    padding-left: 25%;
+    align-items: center;
+    text-decoration: underline;
+    color: aqua;
+}
+
+.about {
+    color: deepskyblue;
+}
+
+.about-header {
+    text-align: center;
+    text-decoration: underline deepskyblue;
+}
+.about-p {
+    text-align: center;
+    color:aquamarine;
+}
+
+#about-portrait {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h3 {
+    font-style: italic;
+}
+
+.body {
+    font-style: italic;
+}
